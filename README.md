@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vikum Viraj
-- 🤠 I'm 23 year Software engineer of Sri Lanka
+- 🤠 I'm 23 year Software engineer from Sri Lanka
 - 👀 I’m interested in Programming Languages,Game Development with Unity,Artifical intelligence 
       Video Editing and Cut edge technologies
 - 🌱 I’m currently learning at Sri Lanka Institute of Information Technology
