@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Vikum Viraj</h1>
 <h3 align="center">A Full Stack Developer / Software Engineer Undergraduate</h3>
 
-<img align="right" src"https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif" alt="Programmer" width="400">
+<img align="right" src"https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Programmer" width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikum-viraj&label=Profile%20views&color=0e75b6&style=flat" alt="vikum-viraj" /> </p>
 
 - 🌱 I’m currently learning **At SLIIT**
