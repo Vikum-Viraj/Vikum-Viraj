@@ -1,11 +1,8 @@
 [![MasterHead](https://github.com/Vikum-Viraj/Vikum-Viraj/blob/main/github-header-image.png)](https://github.com/Vikum-Viraj/Vikum-Viraj)
 <h1 align="center">Hi 👋, I'm Vikum Viraj</h1>
-<h3 align="center">A Full Stack Web Developer/Software Engineer Undergraduate</h3>
-
+<h3 align="center">A Full Stack Developer / Software Engineer Undergraduate</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikum-viraj&label=Profile%20views&color=0e75b6&style=flat" alt="vikum-viraj" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikum-viraj" alt="vikum-viraj" /></a> </p>
 
 - 🌱 I’m currently learning **At SLIIT**
 
@@ -15,9 +12,12 @@
 
 - 💬 Ask me about **React,Node**
 
+- 📫 How to reach me **mvikumviraj@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/vikum-viraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/vikum-viraj" height="30" width="40" /></a>
+<a href="https://fb.com/vikum viraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vikum viraj" height="30" width="40" /></a>
 <a href="https://instagram.com/_.vikum._.viraj_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.vikum._.viraj_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/virajdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="virajdev" height="30" width="40" /></a>
 </p>
