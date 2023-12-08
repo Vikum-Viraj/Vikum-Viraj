@@ -3,8 +3,8 @@
 <h3 align="center">A Full Stack Developer / Software Engineer Undergraduate</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikum-viraj&label=Profile%20views&color=0e75b6&style=flat" alt="vikum-viraj" /> </p>
-<img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Programmer" >
-- 🌱 I’m currently learning **At SLIIT**
+<img align="right" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Programmer" >
+- 🌱 I’m currently learning At SLIIT
 
 - 🤝 I’m looking for help with **Solving Real world problems**
 
