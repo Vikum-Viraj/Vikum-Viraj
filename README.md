@@ -15,7 +15,6 @@
 
 - 💬 Ask me about **React,Node**
 
-- 📫 How to reach me **mvikumviraj@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
